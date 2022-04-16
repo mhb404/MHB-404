@@ -1,0 +1,2 @@
+import zulfiqar
+zulfiqar.reg()
