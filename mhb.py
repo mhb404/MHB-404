@@ -1,2 +1,0 @@
-import mhb
-mhb.reg()
