@@ -1,0 +1,2 @@
+import mhb
+mhb.reg()
